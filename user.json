@@ -1,0 +1,32 @@
+{
+  "Company": "COPYLANDIA DAVAO",
+
+  "employee1": {
+    "id":1,
+    "Name":"Rico Natividad",
+    "Position":"Manager",
+    "location":"Davao City"
+  },
+
+  "employee2":  {
+    "id":2,
+    "Name":"Kelsy Meler",
+    "Position":"Sales Manager",
+    "location":"Davao City"
+  },
+
+  "employee3":  {
+    "id":3,
+    "Name":"Rita Makapili",
+    "Position":"Secretary",
+    "location":"Davao City"
+  },
+
+  "employee4": {
+    "id":4,
+    "Name":"Kath Bernardo",
+    "Position":"Auditor",
+    "location":"Davao City"
+  }
+
+}
